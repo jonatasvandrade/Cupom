@@ -100,4 +100,7 @@ docker-compose exec app php artisan migrate --seed
 | BLACKFRIDAY    | Percentual | 50%    | 500            |
 | PROMO5         | Fixo       | R$ 5   | 1000           | 
 
+PARA RODAR OS TESTES
+php artisan test
+
 Feito por [Jonatas Viana Andrade](https://github.com/jonatasvandrade)
